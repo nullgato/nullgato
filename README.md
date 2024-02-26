@@ -5,7 +5,7 @@ Probably not a little screen?
 
 Pronouns are she/her. 29 y/o as of publishing this. I use lots of badges for my READMEs because I think they look cool as heck, sorry if they're tacky! 😩 
 
-I'm a software engineer of about a decade and a half. I work professionally as a mobile developer, but my actual interests are in server & network administration. I enjoy development too, but for my own (or others) needs rather than as a career. Hoping that one day I can find a new path than the one I'm on.
+I'm a software engineer of about a decade and a half. I work professionally as a mobile developer, but my actual interests are in server & network administration and also torrenting along with data hoarding. I enjoy development too, but for my own (or others) needs rather than as a career. Hoping that one day I can find a new path than the one I'm on.
 
 Other than that I enjoy playing music and have a guitar and bass I play fairly frequently, and I also enjoy video games! A few MMOS: FFXIV, RuneScape, Mabinogi; retro gaming (generally between N64/PS1 - Xbox 360/PS3 eras); and some other games! I love Clone Hero and Fortnite Festival, and RPGs like Baldur's Gate and classic BioWare. ❤️
 
