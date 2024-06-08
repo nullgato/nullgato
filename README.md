@@ -46,7 +46,7 @@ Other than that I enjoy playing music and have a guitar and bass I play fairly f
 
  
 ![Windows 10 (Aero)](https://img.shields.io/badge/W10%20(Aero)-74b8fc?style=for-the-badge&logo=windows%20xp)
-![Windows Terminal](https://img.shields.io/badge/Win%20Terminal-%234D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white)
+![WezTerm](https://img.shields.io/badge/WezTerm-%234E49EE?style=for-the-badge&logo=wezterm)
 ![PowerShell](https://img.shields.io/badge/Pwsh-%235391FE?style=for-the-badge&logo=powershell&logoColor=white)
 
 
