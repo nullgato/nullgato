@@ -3,7 +3,9 @@ Just a silly little (trans) femme in your silly little screen.
 Or big screen.   
 Probably not a little screen?  
 
-Pronouns are she/her. 29 y/o as of publishing this. I use lots of badges for my READMEs because I think they look cool as heck and I love color, even if they might be tacky! 😄 
+Pronouns are she/her, 29 y/o as of publishing this. I use lots of badges for my READMEs because I think they look cool as heck and I love color, even if they might be tacky! 😄 
+
+I do VTubing! You can get to my YouTube/Twitch just below this section and I stream to both simultaneously so pick your favorite! :3
 
 I'm a software engineer of about a decade and a half. I work professionally as a mobile developer, but my actual interests are in server & network administration and also torrenting along with data hoarding. I enjoy development too, but for my own (or others) needs rather than as a career. Hoping that one day I can find a new path than the one I'm on.
 
