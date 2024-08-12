@@ -5,6 +5,8 @@ Probably not a little screen?
 
 Pronouns are she/her, 29 y/o as of publishing this. I use lots of badges for my READMEs because I think they look cool as heck and I love color, even if they might be tacky! 😄 
 
+I make music! You can find my work over on SoundCloud for free streaming, or on Bandcamp for free downloading. Working on getting it elsewhere!
+
 I do VTubing! You can get to my YouTube/Twitch just below this section and I stream to both simultaneously so pick your favorite! :3
 
 I'm a software engineer of about a decade and a half. I work professionally as a mobile developer, but my actual interests are in server & network administration and also torrenting along with data hoarding. I enjoy development too, but for my own (or others) needs rather than as a career. Hoping that one day I can find a new path than the one I'm on.
@@ -14,11 +16,17 @@ Other than that I enjoy playing music and have a guitar and bass I play fairly f
 <br />
 
 ## Guilds
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@transcendingember)
-[![Twitch](https://img.shields.io/badge/Twitch-%239146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.com/transcendingember)
-[![Threads](https://img.shields.io/badge/Threads-blue?style=for-the-badge&logo=threads)](https://threads.net/@transcendingember)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/transcendingember)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2%20?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHg9IjBweCIgeT0iMHB4IiB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgdmlld0JveD0iMCwwLDI1NiwyNTYiPgo8ZyBmaWxsPSIjZmZmZmZmIiBmaWxsLXJ1bGU9Im5vbnplcm8iIHN0cm9rZT0ibm9uZSIgc3Ryb2tlLXdpZHRoPSIxIiBzdHJva2UtbGluZWNhcD0iYnV0dCIgc3Ryb2tlLWxpbmVqb2luPSJtaXRlciIgc3Ryb2tlLW1pdGVybGltaXQ9IjEwIiBzdHJva2UtZGFzaGFycmF5PSIiIHN0cm9rZS1kYXNob2Zmc2V0PSIwIiBmb250LWZhbWlseT0ibm9uZSIgZm9udC13ZWlnaHQ9Im5vbmUiIGZvbnQtc2l6ZT0ibm9uZSIgdGV4dC1hbmNob3I9Im5vbmUiIHN0eWxlPSJtaXgtYmxlbmQtbW9kZTogbm9ybWFsIj48ZyB0cmFuc2Zvcm09InNjYWxlKDUuMTIsNS4xMikiPjxwYXRoIGQ9Ik01MC4wNjI1LDEwLjQzNzVjLTEuODQ3NjYsMC44MjAzMSAtMy44MjgxMiwxLjM3MTA5IC01LjkxMDE2LDEuNjIxMDljMi4xMjUsLTEuMjczNDQgMy43NTc4MSwtMy4yODkwNiA0LjUyMzQ0LC01LjY4NzVjLTEuOTg0MzcsMS4xNzU3OCAtNC4xOTE0MSwyLjAzMTI1IC02LjUzMTI1LDIuNDkyMTljLTEuODc1LC0yIC00LjU0Njg3LC0zLjI0NjA5IC03LjUwMzkxLC0zLjI0NjA5Yy01LjY3OTY5LDAgLTEwLjI4NTE2LDQuNjAxNTYgLTEwLjI4NTE2LDEwLjI4MTI1YzAsMC44MDQ2OSAwLjA5Mzc1LDEuNTg5ODQgMC4yNjk1MywyLjM0Mzc1Yy04LjU0Njg3LC0wLjQyOTY5IC0xNi4xMjEwOSwtNC41MjM0NCAtMjEuMTk1MzEsLTEwLjc0NjA5Yy0wLjg4NjcyLDEuNTIzNDQgLTEuMzkwNjIsMy4yODkwNiAtMS4zOTA2Miw1LjE3MTg3YzAsMy41NjY0MSAxLjgxMjUsNi43MTQ4NCA0LjU3NDIyLDguNTYyNWMtMS42ODc1LC0wLjA1NDY5IC0zLjI3MzQ0LC0wLjUxOTUzIC00LjY2MDE2LC0xLjI4OTA2YzAsMC4wNDI5NyAwLDAuMDg1OTQgMCwwLjEyODkxYzAsNC45ODQzOCAzLjU0Njg4LDkuMTM2NzIgOC4yNDYwOSwxMC4wODU5NGMtMC44NTkzNywwLjIzNDM4IC0xLjc2OTUzLDAuMzU5MzggLTIuNzA3MDMsMC4zNTkzOGMtMC42NjQwNiwwIC0xLjMwODU5LC0wLjA2MjUgLTEuOTM3NSwtMC4xODc1YzEuMzEyNSw0LjA4MjAzIDUuMTA5MzgsNy4wNjI1IDkuNjA1NDcsNy4xNDQ1M2MtMy41MTU2MiwyLjc1NzgxIC03Ljk0OTIyLDQuMzk4NDQgLTEyLjc2OTUzLDQuMzk4NDRjLTAuODMyMDMsMCAtMS42NDg0NCwtMC4wNDY4NyAtMi40NDkyMiwtMC4xNDQ1M2M0LjU0Njg3LDIuOTIxODggOS45NTMxMiw0LjYyMTA5IDE1Ljc2MTcyLDQuNjIxMDljMTguOTE0MDYsMCAyOS4yNTc4MSwtMTUuNjY3OTcgMjkuMjU3ODEsLTI5LjI1MzkxYzAsLTAuNDQ1MzEgLTAuMDExNzIsLTAuODk0NTMgLTAuMDI3MzQsLTEuMzMyMDNjMi4wMDc4MSwtMS40NDkyMiAzLjc1LC0zLjI2MTcyIDUuMTI4OTEsLTUuMzI0MjJ6Ij48L3BhdGg%2BPC9nPjwvZz4KPC9zdmc%2B&logoColor=white)](https://twitter.com/transcendingember)
+[![SoundCloud](https://img.shields.io/badge/SoundCloud-white?style=for-the-badge&logo=soundcloud&logoColor=white&color=%23FF5500)](https://soundcloud.com/embyrdot)
+[![Bandcamp](https://img.shields.io/badge/Bandcamp-white?style=for-the-badge&logo=bandcamp&logoColor=white&color=%23408294)](https://embyr.bandcamp.com)
+
+
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@embyrdot)
+[![Twitch](https://img.shields.io/badge/Twitch-%239146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.com/embyrdot)
+[![TikTok](https://img.shields.io/badge/TikTok-white?style=for-the-badge&logo=tiktok&logoColor=white&color=%23000000)](https://tiktok.com/embyrdot)
+
+
+[![Threads](https://img.shields.io/badge/Threads-blue?style=for-the-badge&logo=threads)](https://threads.net/@embyrdot)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/embyrdot)
 [![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?logo=bluesky&logoColor=fff&style=for-the-badge)](https://bsky.app/profile/ember.bratcats.gay)
 
 <br />
