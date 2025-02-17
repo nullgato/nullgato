@@ -18,13 +18,7 @@ Other than that I enjoy playing music and have a guitar and bass I play fairly f
 
 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@loafymage)
-[![Twitch](https://img.shields.io/badge/Twitch-%239146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.com/nullmoggi)
 [![TikTok](https://img.shields.io/badge/TikTok-white?style=for-the-badge&logo=tiktok&logoColor=white&color=%23000000)](https://tiktok.com/loafymage)
-
-
-[![Threads](https://img.shields.io/badge/Threads-blue?style=for-the-badge&logo=threads)](https://threads.net/@bratcatnullgato)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/bratcatnullgato)
-[![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?logo=bluesky&logoColor=fff&style=for-the-badge)](https://bsky.app/profile/nullgato.bratcats.gay)
 
 <br />
   
